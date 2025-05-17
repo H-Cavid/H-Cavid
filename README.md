@@ -65,13 +65,19 @@
 
 <details>
 <summary>📈 GitHub Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=H-Cavid&theme=tokyonight" alt="Javid's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=H-Cavid&theme=tokyonight&hide_border=true" alt="Javid's GitHub Stats">
 </details>
 
 <details>
 <summary>🌐 Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Cavid&layout=compact&theme=tokyonight" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Cavid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </details>
+
+<details>
+<summary>🔥 Contribution Streak</summary>
+<img src="https://streak-stats.demolab.com?user=H-Cavid&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+</details>
+
 
 ---
 
