@@ -1,5 +1,8 @@
 # 👋 Hi there! I'm Javid Hasanov
+
 <img src="https://github.com/H-Cavid/H-Cavid/blob/main/assets/IMG_0550.GIF?raw=true" align="right" width="400" alt="Coding GIF">
+
+<p align="justify">
 
 🎓 I hold a **Bachelor of Science in Computer Science** from ASOIU (2019–2023), where I built a strong foundation in programming (C, C++, C#, Java), data structures, algorithms, databases, operating systems, and web technologies.  
 
@@ -12,6 +15,9 @@
 🤖 I’m currently working on a deep learning project focused on integrating AI into precision agriculture. The aim is to develop a lightweight image classification model (e.g., MobileNetV2) capable of detecting grapevine leaf diseases in real time using drone-captured imagery.
 
 🌍 Originally from Azerbaijan 🇦🇿, now based in Germany 🇩🇪, I’m actively looking for working student opportunities in data science, analytics, or related fields.    
+
+
+</p>
 
 ---
 
