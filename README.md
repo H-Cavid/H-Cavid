@@ -63,20 +63,15 @@
 
 ## 📊 GitHub Stats & Badges
 
-<details>
-<summary>📈 GitHub Stats</summary>
+### 📈 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=H-Cavid&theme=tokyonight&hide_border=true" alt="Javid's GitHub Stats">
-</details>
 
-<details>
-<summary>🌐 Most Used Languages</summary>
+### 🌐 Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Cavid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</details>
 
-<details>
-<summary>🔥 Contribution Streak</summary>
+### 🔥 Contribution Streak
 <img src="https://streak-stats.demolab.com?user=H-Cavid&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
-</details>
+
 
 
 ---
