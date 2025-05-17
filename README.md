@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Javid Hasanov
-<img src="https://github.com/H-Cavid/H-Cavid/blob/main/assets/IMG_0550.GIF?raw=true" align="right" width="400" alt="Coding GIF"><br><br>
+<img src="https://github.com/H-Cavid/H-Cavid/blob/main/assets/IMG_0550.GIF?raw=true" align="right" width="400" alt="Coding GIF">
 
 🎓 I hold a **Bachelor of Science in Computer Science** from ASOIU (2019–2023), where I built a strong foundation in programming (C, C++, C#, Java), data structures, algorithms, databases, operating systems, and web technologies.  
 
