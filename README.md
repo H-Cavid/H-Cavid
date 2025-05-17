@@ -1,7 +1,8 @@
 # 👋 Hi there! I'm Javid Hasanov
 
 <img src="https://github.com/H-Cavid/H-Cavid/blob/main/assets/IMG_0550.GIF?raw=true" align="right" width="400" alt="Coding GIF">
-
+<br>
+<p align="justify">
 🎓 I hold a **Bachelor of Science in Computer Science** from ASOIU (2019–2023), where I built a strong foundation in programming (C, C++, C#, Java), data structures, algorithms, databases, operating systems, and web technologies.  
 🌐 During this time, I also earned a **Front-End Web Development certificate** (CodeforFuture), gaining practical experience with **HTML5, CSS3, JavaScript (ES6+), Bootstrap, jQuery, React.js**, and Git/GitHub.  
 🧑‍💻 During my Bachelor's studies, I developed strong knowledge in **full-stack web development**. I gained backend development experience using **Python and Django**, and built responsive frontends using modern frameworks as part of my academic and certificate-based training.  
@@ -9,6 +10,7 @@
 🤖 I’m currently working on a deep learning project focused on integrating AI into precision agriculture. The aim is to develop a lightweight image classification model (e.g., MobileNetV2) capable of detecting grapevine leaf diseases in real time using drone-captured imagery.  
 🌍 Originally from Azerbaijan 🇦🇿, now based in Germany 🇩🇪, I’m actively looking for working student opportunities in data science, analytics, or related fields.    
 
+</p>
 ---
 
 ## 🛠️ Skills & Technologies
