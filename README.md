@@ -7,7 +7,7 @@
 🧑‍💻 During my Bachelor's studies, I developed strong knowledge in **full-stack web development**. I gained backend development experience using **Python and Django**, and built responsive frontends using modern frameworks as part of my academic and certificate-based training.  
 🔁 My passion for data-driven insights led me to shift toward **Data Science**. I’m now pursuing a **Master of Science in Data Science** at FH Kiel, focusing on machine learning, statistical modeling, big data, and bioinformatics.  
 🤖 I’m currently working on a deep learning project focused on integrating AI into precision agriculture. The aim is to develop a lightweight image classification model (e.g., MobileNetV2) capable of detecting grapevine leaf diseases in real time using drone-captured imagery.  
-🌍 Originally from Azerbaijan 🇦🇿, now based in Germany 🇩🇪, I’m actively looking for working student opportunities in data science, analytics, or related fields.  
+🌍 Originally from Azerbaijan 🇦🇿, now based in Germany 🇩🇪, I’m actively looking for working student opportunities in data science, analytics, or related fields.    
 
 ---
 
