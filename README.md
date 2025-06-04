@@ -81,4 +81,4 @@
 - 📧 Email: [javid.hasanov@student.fh-kiel.de](mailto:javid.hasanov@student.fh-kiel.de)  
 - 💼 LinkedIn: [linkedin.com/in/javidhasanov-tech](https://www.linkedin.com/in/javidhasanov-tech/)  
 - 🐙 GitHub: [github.com/H-Cavid](https://github.com/H-Cavid)  
-- 📁 Portfolio: (https://javidhasanov-portfolio.vercel.app/)
+- 📁 Portfolio: (https://www.javidhasanov.com/)
