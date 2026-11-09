@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Javid Hasanov
 
-<img src="assets/IMG_0550.GIF" align="right" width="360" alt="Coding GIF">
+<img src="https://javidhasanov.com/coding-rounded.gif" align="right" width="360" alt="Coding GIF">
 
 **Data Scientist & AI Developer** · M.Sc. Data Science student at Kiel University of Applied Sciences (grade average 1.6)
 
