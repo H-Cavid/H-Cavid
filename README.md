@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Javid Hasanov
 
-<img src="assets/coding-rounded.gif" align="right" width="360" alt="Coding GIF">
+<img src="assets/IMG_0550.GIF" align="right" width="360" alt="Coding GIF">
 
 **Data Scientist & AI Developer** · M.Sc. Data Science student at Kiel University of Applied Sciences (grade average 1.6)
 
@@ -88,25 +88,14 @@ English (C1) · German (B2) · Azerbaijani (native) · Turkish (C1)
 
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://h-cavid-readme-stats.vercel.app/api?username=H-Cavid&show_icons=true&hide_border=true&theme=tokyonight">
-  <img height="165" src="https://h-cavid-readme-stats.vercel.app/api?username=H-Cavid&show_icons=true&hide_border=true&theme=default&bg_color=f6f8fa" alt="GitHub Stats">
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://h-cavid-readme-stats.vercel.app/api/top-langs/?username=H-Cavid&layout=compact&langs_count=8&hide_border=true&theme=tokyonight">
   <img height="165" src="https://h-cavid-readme-stats.vercel.app/api/top-langs/?username=H-Cavid&layout=compact&langs_count=8&hide_border=true&theme=default&bg_color=f6f8fa" alt="Top Languages">
 </picture>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=H-Cavid&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=tokyonight">
-  <img src="https://streak-stats.demolab.com?user=H-Cavid&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=default&background=f6f8fa" alt="GitHub Streak">
+  <img height="165" src="https://streak-stats.demolab.com?user=H-Cavid&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=default&background=f6f8fa" alt="GitHub Streak">
 </picture>
-
-<!-- OPTIONAL (trial): trophies, snake, visitor counter -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=H-Cavid&no-frame=true&no-bg=true&row=1&column=6&theme=tokyonight">
-  <img src="https://github-profile-trophy.vercel.app/?username=H-Cavid&no-frame=true&no-bg=true&row=1&column=6&theme=flat" alt="GitHub Trophies">
-</picture>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H-Cavid/H-Cavid/output/github-snake-dark.svg">
